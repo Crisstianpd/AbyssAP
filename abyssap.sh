@@ -94,7 +94,7 @@ dependencies(){
 	then
 		echo -n -e "${redColor}[Error]${boldText} The following dependencies were not found: ${yellowColor}"
 		for tool in ${no_install_depen[@]}; do
-			echo -n $tool
+			echo -n -e "${tool} "
 		done
 		echo -e $endColor
 		exit 1
