@@ -80,7 +80,7 @@ main(){
 dependencies(){
 	echo -e "\n${boldText}Cheking dependencies ...\n";sleep 0.2
 
-	depen=(hostapd php dnsmasq)
+	depen=(hostapd php dnsmasq iw jq)
 	no_install_depen=()
 
 	for tool in ${depen[@]}; do		
