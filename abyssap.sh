@@ -1,9 +1,8 @@
 #!/bin/bash
 
-# Copyright (C) 2025 Crisstianpd
-# Licensed under the GNU GPL v3.0
-# Puedes consultar la licencia en:
-# https://www.gnu.org/licenses/gpl-3.0.html
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2025 Cristian Alexander (Crisstianpd)
+
 
 #export path
 export PATH=$PATH:/usr/local/sbin:/usr/sbin:/sbin
