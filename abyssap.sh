@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # SPDX-License-Identifier: GPL-3.0-or-later
-# Copyright (C) 2025 Cristian Alexander (Crisstianpd)
+# Copyright (c) 2025 Cristian Alexander (Crisstianpd)
 
 
 #export path
